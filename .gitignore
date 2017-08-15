@@ -1,0 +1,4 @@
+.idea
+*.log
+site-home/release
+node_modules
